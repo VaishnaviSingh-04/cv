@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\DSA"
+		},
+		{
+			"path": "..\\webdev"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webdev"
+	}
+}
